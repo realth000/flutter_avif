@@ -2,6 +2,7 @@ name: Build Android
 
 on:
   workflow_dispatch:
+    inputs:
       dry_run:
         description: Dry run, do NOT upload artifacts.
         required: true
