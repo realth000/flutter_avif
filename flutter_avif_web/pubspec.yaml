@@ -28,5 +28,3 @@ flutter:
       web:
         pluginClass: FlutterAvifWeb
         fileName: flutter_avif_web.dart
-  assets:
-    - web/
